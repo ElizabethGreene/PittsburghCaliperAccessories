@@ -7,7 +7,7 @@ This set currently includes:
 
 
 ## Depth Measuring Base Instructions
-![Using the depth measuring base](Pictures\DMB-UsingtheDepthMeasuringBase.jpg)
+![Using the depth measuring base](Pictures/DMB-UsingtheDepthMeasuringBase.jpg)
 * Print "Depth Measuring Base.3mf"
 * * Recommended Material: Prusament PETG ~ 6 Grams
 * * Print at 0.3mm "Draft" settings
@@ -21,14 +21,14 @@ This set currently includes:
 * Measurements can be directly read from the tool.
 
 ## Center-to-Center Measuring Pins
-![Measuring Hole spacing on a tool](Pictures\C2C-MeasuringHoleSpacing.jpg)
+![Measuring Hole spacing on a tool](Pictures/C2C-MeasuringHoleSpacing.jpg)
 * Print "C2C Pin - Original.3mf", "C2C Pin - Mirror.3mf", and "C2C Pin - Original.3mf"
 * * Recommended Material: Prusament PETG ~ 6 Grams
 * * Print at 0.3mm "Draft" settings
 * * No support material required
 * * * If your pin points print with a slight deformation at the end of the pin, these can be sanded to smooth and concentric by centering them carefully in a drill chuck and spinning against sandpaper.
 
-![Sanding points](Pictures\C2C-SandingToACleanPoint.jpg)
+![Sanding points](Pictures/C2C-SandingToACleanPoint.jpg)
 
 * The pins are designed to be a light friction fit on the caliper jaws. Screw holes are provided for (2) optional M3x5mm Socket Head Cap Screws to retain the jaws.
 * Once the pins are installed, place them in the calibration jig and zero the caliper.  Hole center-to-center distances will be 15mm *MORE* than the measurement shown on the calipers.
