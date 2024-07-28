@@ -32,19 +32,25 @@ This set currently includes:
 
 * The pins are designed to be a light friction fit on the caliper jaws. Screw holes are provided for (2) optional M3x5mm Socket Head Cap Screws to retain the jaws.
 * Once the pins are installed, place them in the calibration jig and zero the caliper.  Hole center-to-center distances will be 15mm *MORE* than the measurement shown on the calipers.
+* * __Add 15mm from the measurement to get the actual center-to-center distance__
 * * A caliper reading of 43.5MM will indicate a center-to-center distance of 43.5+15=58.5mm
 
 ## Suggestions for future work
-* Make the center-to-center distance a round number instead of 15mm
 * Make knobs for the retaining screws
 * Make a modified V base for measuring curve radius
 * * Perhaps in different sizes?
 * Custom Caliper jaws for directly measuring offsets, like McMaster https://www.mcmaster.com/20095A31/
 * A case or pockets in the depth base to hold the accessories so they don't wander off
-* Make the depth base available in different lengths
 * Magnets? to hold the pins in place on the calipers?
-* Make the C2c calibration jig holes through holes so they work better.
 * Tightening the depth base screw deflects the base and can cause the calipers to pop out.  Perhaps a compliant mechanism and/or wedge shape could help with this?
 * Simplify the models to allow making them on a lathe or mill
 * There is an electrical connector on the side adjacent to the battery door.  Research and/or Reverse engineer that, make a connector for it, and create a PC adapter.
-* Add additional clearance to depth gauge to fit black calipers.
+* Create a script to export all of the bodies as STL and 3MF AND iterate through all of the available sizes.
+
+## 2024/07/28 Updates
+* Done - Add additional clearance to depth gauge to fit black calipers.
+* Done - Make the C2c calibration jig holes through holes so they work better.
+* Done - Make the depth base available in different lengths
+* * The length is now parameterized in Fusion
+* * Pregenerated 3MFs for 150mm and 75mm
+* * * I'm concerned that parts longer than 150mm may have issues with warming and/or deflection.
