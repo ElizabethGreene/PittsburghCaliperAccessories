@@ -8,8 +8,8 @@ This set currently includes:
 
 ## Depth Measuring Base Instructions
 ![Using the depth measuring base](Pictures/DMB-UsingtheDepthMeasuringBase.jpg)
-* Print "Depth Measuring Base.3mf"
-* * Recommended Material: Prusament PETG ~ 6 Grams
+* Print "Depth Measuring Base 75mm.3mf" or "Depth Measuring Base 150mm.3mf"
+* * Recommended Material: Prusament PETG ~ 6 Grams for 75mm, 10 Grams for 150mm
 * * Print at 0.3mm "Draft" settings
 * * No support material required
 * Start 1 M3x8mm Socket Head Cap Screw in the side hole, but do not fully tighten it.
@@ -22,8 +22,8 @@ This set currently includes:
 
 ## Center-to-Center Measuring Pins
 ![Measuring Hole spacing on a tool](Pictures/C2C-MeasuringHoleSpacing.jpg)
-* Print "C2C Pin - Original.3mf", "C2C Pin - Mirror.3mf", and "C2C Pin - Original.3mf"
-* * Recommended Material: Prusament PETG ~ 6 Grams
+* Print "C2C Pin - Original.3mf", "C2C Pin - Mirror.3mf", and "C2C Calibration Jig.3mf"
+* * Recommended Material: Prusament PETG ~ 5 Grams 
 * * Print at 0.3mm "Draft" settings
 * * No support material required
 * * * If your pin points print with a slight deformation at the end of the pin, these can be sanded to smooth and concentric by centering them carefully in a drill chuck and spinning against sandpaper.
